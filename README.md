@@ -1,5 +1,5 @@
     Question 2
-Algorithm has O(n) complexity as a function of npoints.
+Algorithm has O(n) complexity as a function of npoints. NOTE: Github's previewer isn't displaying the table properly. Opening the file itself should fix that.
 
 npoints		estimate	runtime
 10		3.12		0.004s
